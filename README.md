@@ -13,3 +13,6 @@ To make sure you genuinely ran into a bug try different emulators or flash carts
 
 # Will you add X feature to the game?
 Unlikely, I will only be doing some bug fixes and the like, especially if it's something game breaking (Ie. Softlocks, crashes, freezes) or if it is a cosmetic glitch that detracts from the experience overall. Anything that falls outside of this won't be done, however it may be considered in the future
+
+# What's with the other non patch stuff and what is it for?
+For most users, my documentation of things like the place where the icons live in the ROM (ie. addresses) or anything else more technical for that matter, is only for those who really want to make their own romhack and put this information to use. I hope it will be of great use to future romhackers who wish to translate GS2 for the GBA in their language?
