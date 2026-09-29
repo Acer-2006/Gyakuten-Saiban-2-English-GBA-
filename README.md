@@ -1,5 +1,7 @@
 # Gyakuten-Saiban-2-English-GBA-
+<img width="500" height="321" alt="image" src="https://github.com/user-attachments/assets/e781cbda-5eb8-4cb4-99fd-e0458e520c21" />
 A fan translation that inserts the official Capcom English DS localization and graphics into GS2 for the GBA
+
 
 # Patching instructions
 Grab your legally obtained rom of GS2 and use your patcher of choice such as Lunar.ips or any other patcher you like, select the GS2 English patch and then apply it to the rom
