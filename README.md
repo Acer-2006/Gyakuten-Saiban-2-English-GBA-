@@ -12,10 +12,11 @@ Outside of the typical Take that, Hold it, Objection! bubbles being more closer 
 
 # What if I run into a bug or glitch?
 You can open an issue here and I will do my best to fix it, if I can't fix it or reproduce it then it will not be fixed and the issue will be closed.
-To make sure you genuinely ran into a bug try different emulators or flash carts if applicable, if the issue reproduces, take a picture or screenshot and attach it to the issues section.
+To make sure you genuinely ran into a bug try different emulators or flash carts if applicable, if the issue reproduces, take a picture or screenshot or video and attach it to the issues section.
+Also be sure to tell me where this happens (ie. the phrase it happens on, which case, if it happens when moving to another location in the game,etc)
 
 # Will you add X feature to the game?
-Unlikely, I will only be doing some bug fixes and the like, especially if it's something game breaking (Ie. Softlocks, crashes, freezes) or if it is a cosmetic glitch that detracts from the experience overall. Anything that falls outside of this won't be done, however it may be considered in the future
+Unlikely, I will only be doing some bug fixes and the like, especially if it's something game breaking (Ie. Softlocks, crashes, freezes) or if it is a cosmetic glitch that detracts from the experience overall. Anything that falls outside of this won't be done, however it may be considered in the future such as a three line version.
 
 # What's with the other non patch stuff and what is it for?
-For most users, my documentation of things like the place where the icons live in the ROM (ie. addresses) or anything else more technical for that matter, is only for those who really want to make their own romhack and put this information to use. I hope it will be of great use to future romhackers who wish to translate GS2 for the GBA in their language?
+For most users, my documentation of things like the place where the icons live in the ROM (ie. addresses) or anything else more technical for that matter, is only for those who really want to make their own romhack of GS2 and put this information to use. I hope it will be of great use to future romhackers who wish to translate GS2 for the GBA in their language.
