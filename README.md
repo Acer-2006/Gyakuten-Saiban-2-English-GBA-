@@ -1,4 +1,4 @@
-# Gyakuten-Saiban-2-English-GBA-
+# Gyakuten-Saiban-2-English-GBA
 <img width="500" height="321" alt="Gyakuten Saiban 2 GBA box art" src="https://github.com/user-attachments/assets/e781cbda-5eb8-4cb4-99fd-e0458e520c21" />
 
 A fan translation that inserts the official Capcom English DS localization and graphics into GS2 for the GBA
