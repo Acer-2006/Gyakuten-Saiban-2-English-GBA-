@@ -7,6 +7,8 @@ A fan translation that inserts the official Capcom English DS localization and g
 # Patching instructions
 Grab your legally obtained rom of GS2 and use your patcher of choice such as Lunar.ips or any other patcher you like, select the GS2 English patch and then apply it to the rom
 
+Base ROM Gyakuten Saiban 2 (Japan), 8 MiB, CRC32 191AD26A; result 16 MiB, CRC32 19DE449E. Apply the .bps with Floating IPS or any BPS patcher; the .ips is the same patch for IPS-only patchers.
+
 # What's the difference between the big bubble and the small bubble version?
 Outside of the typical Take that, Hold it, Objection! bubbles being more closer in scale to the DS version, it is essentially the same game. The big bubble version is for those who want the bigger bubbles and the smaller bubbles are there for those who want that "authentic" experience, where the game would feel closer to the vanilla JP GBA release.
 
