@@ -9,6 +9,9 @@ Grab your legally obtained rom of GS2 and use your patcher of choice such as Lun
 
 Base ROM Gyakuten Saiban 2 (Japan), 8 MiB, CRC32 191AD26A; result 16 MiB, CRC32 19DE449E. Apply the .bps with Floating IPS or any BPS patcher; the .ips is the same patch for IPS-only patchers.
 
+Note: If you have had issues patching your game, please grab the latest patch, as it should now work on a clean JP copy
+Extra note: As of October 15th 2026 I received a report about an online patcher causing issues with the patch (such as a white screen and garbage audio). I'd recommend using a patcher such as Floating IPS, JS Rompatcher online or Lunar IPS instead of the online patcher, which for some reason can break the patch.
+
 # What's the difference between the big bubble and the small bubble version?
 Outside of the typical Take that, Hold it, Objection! bubbles being more closer in scale to the DS version, it is essentially the same game. The big bubble version is for those who want the bigger bubbles and the smaller bubbles are there for those who want that "authentic" experience, where the game would feel closer to the vanilla JP GBA release.
 
